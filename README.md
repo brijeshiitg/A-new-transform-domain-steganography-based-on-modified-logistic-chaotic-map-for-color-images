@@ -5,10 +5,8 @@ chaotic map for color images" by Valandar et al. in ELSEVIER Journal of Informat
 
 Implementation is as per the embedding and extraction algorithms given in the paper.
 
-![alt-text-1](/lena.png?raw=true "cover image") ![alt-text-2](/parrots.png?raw=true "secret message") ![alt-text-3](/stego.png?raw=true "stego image")
-
 <p float="left">
-  <img src="/lena.png" width="100" />
-  <img src="/parrots.png" width="100" /> 
-  <img src="/stego.png" width="100" />
+  <img src="/lena.png" width="200" />
+  <img src="/parrots.png" width="200" /> 
+  <img src="/stego.png" width="200" />
 </p>
