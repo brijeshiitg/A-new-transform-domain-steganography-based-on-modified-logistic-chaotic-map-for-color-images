@@ -5,4 +5,4 @@ chaotic map for color images" by Valandar et al. in ELSEVIER Journal of Informat
 
 Implementation is as per the embedding and extraction algorithms given in the paper.
 
-![Alt text](/lena.png?raw=true "Cover image"){:height="50%" width="50%"}
+![Alt text](/lena.png?raw=true "Cover image" {:height="50%" width="50%"})
