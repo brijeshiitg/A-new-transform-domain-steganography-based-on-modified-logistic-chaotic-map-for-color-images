@@ -10,3 +10,16 @@ Implementation is as per the embedding and extraction algorithms given in the pa
   <img src="/parrots.png" title="secret image" width="200" /> 
   <img src="/stego.png" title="stego image" width="200" />
 </p>
+
+<table>
+  <tr>
+    <td>cover image</td>
+     <td>secret image</td>
+     <td>stego image</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="lena.png"></td>
+    <td valign="top"><img src="parrots.png"></td>
+    <td valign="top"><img src="stego.png"></td>
+  </tr>
+ </table>
