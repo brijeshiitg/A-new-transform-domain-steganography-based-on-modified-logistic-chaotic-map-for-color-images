@@ -7,6 +7,6 @@ Implementation is as per the embedding and extraction algorithms given in the pa
 
 <p float="left">
   <img src="/lena.png" title="cover image" width="200"/>
-  <img src="/parrots.png" width="200" /> 
-  <img src="/stego.png" width="200" />
+  <img src="/parrots.png" title="secret image" width="200" /> 
+  <img src="/stego.png" title="stego image" width="200" />
 </p>
